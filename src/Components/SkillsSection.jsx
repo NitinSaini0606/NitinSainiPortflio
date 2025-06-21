@@ -4,8 +4,8 @@ import { useState } from "react"
 const skills = [
     // Frontend
     {name: "HTML/CSS", level: "90%", category: "Frontend"},
-    {name: "Javascript", level: "85%", category: "Frontend"},
-    {name: "React", level: "80%", category: "Frontend"},
+    {name: "Javascript", level: "75%", category: "Frontend"},
+    {name: "React", level: "70%", category: "Frontend"},
     {name: "Tailwind CSS", level: "90%", category: "Frontend"},
 
     // Languages

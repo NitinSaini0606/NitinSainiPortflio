@@ -12,7 +12,7 @@ export const AboutSection = () => {
                     <div className="space-y-6">
                         <h3 className="text-2xl font-semibold">Education</h3>
 
-                        <p className="text-lg font-semibold text-white mb-1">
+                        <p className="text-lg font-semibold text-muted-foreground mb-1">
                             🎓 B.Tech in Artificial Intelligence and Machine Learning
                         </p>
                         <p className="text-muted-foreground mb-1 text-[17px]">

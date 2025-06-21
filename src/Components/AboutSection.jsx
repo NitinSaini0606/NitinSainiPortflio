@@ -33,7 +33,7 @@ export const AboutSection = () => {
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="cosmic-button">Let's Connect</a>
 
-                            <a href="resume.pdf" className="px-6 py-2 border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 rounded-full">Download Resume</a>
+                            {/* <a href="resume.pdf" className="px-6 py-2 border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 rounded-full">Download Resume</a> */}
 
                         </div>
                     </div>

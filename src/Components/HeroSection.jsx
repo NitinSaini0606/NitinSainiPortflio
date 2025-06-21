@@ -18,11 +18,11 @@ export const HeroSection = () => {
                         Passionate about crafting web apps and solving real-world problems with code.
                     </p>
 
-                    <div className="pt-4 opacity-0 animate-fade-in-delay-4">
+                    {/* <div className="pt-4 opacity-0 animate-fade-in-delay-4">
                         <a href="#projects" className="cosmic-button">
                             View My Work
                         </a>
-                    </div>
+                    </div> */}
 
                 </div>
             </div>

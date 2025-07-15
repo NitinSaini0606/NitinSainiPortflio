@@ -22,12 +22,8 @@ export const AboutSection = () => {
                             2024 – Present
                         </p>
 
-                        
-
-                        <p
-                        className="text-muted-foreground"
-                        >
-                            💻 Proficient in Python, Java, and C++, with hands-on experience in building projects and solving algorithmic problems using data structures and clean code practices.
+                        <p className="text-muted-foreground">
+                            💻 Proficient in Python, JavaScript and C++, with hands-on experience in building projects and solving algorithmic problems using data structures and clean code practices.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
